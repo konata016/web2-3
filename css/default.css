@@ -11,27 +11,34 @@
     font-size:120%;
     color:blue;
     line-height:2.0em;
+    text-align:left
 }
 
 .貝{
     font-size:70%;
+    text-align:left
 }
 .パン {
     font-size: 70%;
+    text-align:left
 }
 .エビ {
     font-size: 70%;
+    text-align:left
 }
 
 //マウスが乗っているとき
 .貝:hover {
     font-size: 160%;
+    text-align:left
 }
 .パン:hover {
     font-size: 160%;
+    text-align:left
 }
 .エビ:hover {
     font-size: 160%;
+    text-align:left
 }
 
 
@@ -42,6 +49,6 @@
 //背景 
 {
     background-image: url(https://www.rbbtoday.com/imgs/p/RqJIzsl7cmxG8-cARbeaqilNLEDQQ0JFREdG/510534.jpg);
-    //background-repeat: no-repeat;
-    //background-position: center center;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
