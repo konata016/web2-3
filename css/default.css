@@ -11,35 +11,32 @@
     font-size:120%;
     color:blue;
     line-height:2.0em;
-    text-align: center;
 }
 
 .貝{
     font-size:70%;
-    text-align: center;
 }
 .パン {
     font-size: 70%;
-    text-align: center;
 }
 .エビ {
     font-size: 70%;
-    text-align: center;
 }
 
 //マウスが乗っているとき
 .貝:hover {
     font-size: 160%;
-    text-align: center;
 }
 
 .パン:hover {
     font-size: 160%;
-    text-align: center;
 }
 
 .エビ:hover {
     font-size: 160%;
+}
+
+.フッダー{
     text-align: center;
 }
 
