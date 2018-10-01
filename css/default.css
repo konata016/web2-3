@@ -30,14 +30,17 @@
 //マウスが乗っているとき
 .貝:hover {
     font-size: 160%;
+    text-align: center;
 }
 
 .パン:hover {
     font-size: 160%;
+    text-align: center;
 }
 
 .エビ:hover {
     font-size: 160%;
+    text-align: center;
 }
 
 //背景 
