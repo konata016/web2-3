@@ -14,7 +14,7 @@
     text-align:left
 }
 
-.貝{
+.カイ{
     font-size:70%;
     text-align:left
 }
@@ -28,7 +28,7 @@
 }
 
 //マウスが乗っているとき
-.貝:hover {
+.カイ:hover {
     font-size: 160%;
     text-align:left
 }
