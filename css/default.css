@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.ヘッダー {
+    font-size: 150%;
+    text-align: center;
+    line-height: 2.5em;
+    font-weight:800;
+}
+
+
+.タイトル{
+    font-size:120%;
+    color:blue;
+    line-height:2.0em;
+}
+
+.貝{
+    font-size:70%;
+}
+.パン {
+    font-size: 70%;
+}
+.エビ {
+    font-size: 70%;
+}
+
+//マウスが乗っているとき
+.貝:hover {
+    font-size: 160%;
+}
+
+.パン:hover {
+    font-size: 160%;
+}
+
+.エビ:hover {
+    font-size: 160%;
+}
+
+//背景 
+body {
+    background-image: url(https://www.rbbtoday.com/imgs/p/RqJIzsl7cmxG8-cARbeaqilNLEDQQ0JFREdG/510534.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
