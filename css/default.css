@@ -11,34 +11,34 @@
     font-size:120%;
     color:blue;
     line-height:2.0em;
-    text-align:left
+    text-align:left;
 }
 
 .カイ{
     font-size:70%;
-    text-align:left
+    text-align:left;
 }
 .パン {
     font-size: 70%;
-    text-align:left
+    text-align:left;
 }
 .エビ {
     font-size: 70%;
-    text-align:left
+    text-align:left;
 }
 
 //マウスが乗っているとき
 .カイ:hover {
     font-size: 160%;
-    text-align:left
+    text-align:left;
 }
 .パン:hover {
     font-size: 160%;
-    text-align:left
+    text-align:left;
 }
 .エビ:hover {
     font-size: 160%;
-    text-align:left
+    text-align:left;
 }
 
 
